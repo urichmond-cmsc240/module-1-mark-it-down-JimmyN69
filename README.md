@@ -1,4 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-[REPLACE ME!] 
+# Kiet Lam
+![Portrait](IMG_3500.jpeg)
+**eid: 32194485 | Username: JimmyN69**
+*Pronouns: he/him | Class of 2028 - Computer Science*
+___
+Hobbies:
+- Playing games
+- Watching shows + movies
+- Going to class
 
-Add your profile details here
+Favorite Game: [Civilization 6](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)
